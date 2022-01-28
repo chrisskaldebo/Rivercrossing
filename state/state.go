@@ -1,9 +1,17 @@
 package state
 
 func ViewState() string {
-	// Sjekke data som er lagret ("kylling til venstre", "rev til venstre")
 	return "[kylling rev korn hs ---\\ \\__/ _________________/---]"
 }
 func PutInBoat() string {
-	return "rev"
+	return "kylling"
+}
+func CrossRiver() string {
+	return "west"
+}
+func PutInBoat2() string {
+	return "HS"
+}
+func ViewState2() string {
+	return "[Rev Korn            ---V \\_Kylling HS_/ _____________________Ø---]"
 }
