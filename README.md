@@ -1,1 +1,1 @@
- Repository for prosjekt tilknyttet oppgave om rivercrossing 
+Repository for prosjekt tilknyttet oppgave om rivercrossing
